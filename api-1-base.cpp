@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <iostream>
 #include <winsock.h>
-#include <mysql.h>
+#include "mysql_connection.h"
 
 #include <cppconn/drivers.h>
 #include <cppconn/statement.h>
