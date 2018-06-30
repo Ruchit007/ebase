@@ -9,7 +9,7 @@
 #include <cppconn/exception.h>
 #include <cppconn/prepared_statement.h>
 using namespace std;
-void new()
+void neww()
 {
     sql::Driver *driver;
     sql::Connection *con;
@@ -26,5 +26,5 @@ void new()
 }
 int main()
 {
-    new();
+    neww();
 }
